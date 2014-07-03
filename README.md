@@ -1,7 +1,7 @@
 PSMoveSimpleMapper
 ==================
 
-A simple keyboard and mouse mapper for the PSMove device
+A simple keyboard and mouse mapping tool for the PSMove device
 
 
 
